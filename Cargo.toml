@@ -1,0 +1,9 @@
+[package]
+authors = ["Matthew J. Berger <matthewberger@nevada.unr.edu>"]
+edition = "2018"
+name = "tlpi-rust"
+version = "0.1.0"
+
+[dependencies]
+anyhow = "*"
+nix = "0.19.0"
